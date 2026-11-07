@@ -1,0 +1,8 @@
+{
+  "appId": "com.arduinoai.coder",
+  "appName": "Arduino AI Coder",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
